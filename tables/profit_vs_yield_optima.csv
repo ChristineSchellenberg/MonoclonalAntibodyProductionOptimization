@@ -1,0 +1,3 @@
+Initial Glucose [mM],Initial Glutamine [mM],Initial VCD [cells/mL],Time [h],Time [d],Raw Predicted mAb [mg/L],Predicted mAb [mg/L],Cell Culture Cost [$/L],Predicted Cell Culture Value [$/L],Predicted Profit [$/L],Predicted Space-Time Profit [$/L/d],Predicted Space-Time Yield [mg/L/d]
+10.0,2.0,400000.0,72.0,3.0,0.6882,0.6882,340.0,688.21,348.21,87.05,0.1721
+15.0,6.0,1400000.0,8.0,0.33,0.6583,0.6583,970.0,658.3339,-311.6661,-233.75,0.4938

@@ -1,0 +1,6 @@
+Minimum Harvest Time [h],Profit Optimal Time [h],Profit Optimal Glucose [mM],Profit Optimal Glutamine [mM],Profit Optimal VCD [cells/mL],Maximum Space-Time Profit [$/L/d],Yield Optimal Time [h],Maximum Space-Time Yield [mg/L/d]
+8,72.0,10.0,2.0,400000.0,87.05,8.0,0.4938
+16,72.0,10.0,2.0,400000.0,87.05,16.0,0.4348
+24,72.0,10.0,2.0,400000.0,87.05,24.0,0.3977
+48,72.0,10.0,2.0,400000.0,87.05,48.0,0.3271
+72,72.0,10.0,2.0,400000.0,87.05,72.0,0.2837

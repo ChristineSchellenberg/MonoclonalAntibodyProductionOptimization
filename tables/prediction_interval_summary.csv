@@ -1,0 +1,5 @@
+Performance Metric,Predicted Value,Lower 95% Bound,Upper 95% Bound
+mAb Concentration [mg/L],0.6882,0.6065,0.8949
+Culture Value [$/L],688.21,606.5186,894.8531
+Space-Time Profit [$/L/d],87.0525,66.6297,138.7133
+Space-Time Yield [mg/L/d],0.1721,0.1516,0.2237

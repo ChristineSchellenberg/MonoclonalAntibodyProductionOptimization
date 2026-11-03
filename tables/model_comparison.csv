@@ -1,0 +1,13 @@
+Model,Degree,Neighbors (k),Weights,CV RMSE [mg/L],CV R²
+Polynomial Regression,4.0,—,—,0.0834,0.9418
+Polynomial Regression,3.0,—,—,0.0932,0.9307
+Polynomial Regression,2.0,—,—,0.1193,0.8888
+KNN Regression,—,20.0,uniform,0.1735,0.7178
+KNN Regression,—,20.0,distance,0.1736,0.7172
+KNN Regression,—,10.0,distance,0.196,0.6422
+KNN Regression,—,10.0,uniform,0.196,0.6421
+KNN Regression,—,3.0,uniform,0.1995,0.6142
+KNN Regression,—,3.0,distance,0.1995,0.6142
+KNN Regression,—,5.0,uniform,0.1998,0.6126
+KNN Regression,—,5.0,distance,0.1998,0.6127
+Polynomial Regression,1.0,—,—,0.2206,0.6011
